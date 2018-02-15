@@ -1,0 +1,15 @@
+{
+    "name": "docker_mu",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Daniel Aguila <daniel.aguila16t@tectijuana.edu.mx>",
+    "main": "mu.js",
+    "scripts": {
+	"start": "node mu.js"
+    },
+    "dependencies": {
+	"ioredis": "",
+	"body-parser": "",
+	"express": "^4.16.1"
+    }
+}
